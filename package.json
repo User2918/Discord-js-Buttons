@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^12.5.1"
+  },
+  "name": "buttons-bot",
+  "version": "1.0.0",
+  "author": "User2918#4020",
+  "description": "Simple Discord.js Button Template made by User2918#4020",
+  "main": "index.js"
+}
