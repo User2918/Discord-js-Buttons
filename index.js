@@ -1,7 +1,7 @@
 const { Client, MessageEmbed } = require('discord.js');
 const User2918 = new Client();
 const { MessageButton, MessageActionRow } = require('discord-buttons'); 
-const Config = require('./config.json');
+const Config = require('./Config.json');
 require('discord-buttons')(User2918);
 
 User2918.once("ready", () => { 
