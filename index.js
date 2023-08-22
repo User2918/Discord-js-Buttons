@@ -6,7 +6,7 @@ require('discord-buttons')(User2918);
 
 User2918.once("ready", () => { 
     console.log(`${User2918.user.tag} is now Ready!!!`);
-    console.log(`Contact User2918#4020 for any issues!`);
+    console.log(`Contact User2918#0 for any issues!`);
 });
 
 
