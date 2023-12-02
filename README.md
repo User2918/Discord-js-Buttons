@@ -31,7 +31,7 @@ Execute the command ``!setup`` to post the embed.
 
 ## Contact
 
-Discord - [User2918#0](https://discordapp.com/users/714165559809540167)
+Discord -> [User2918#0](https://discordapp.com/users/714165559809540167)
 
 
 
